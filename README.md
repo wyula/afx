@@ -10,7 +10,7 @@
 
 自动构建平台推荐，`Github Pages` 、[vercel](https://vercel.com/)（要用自己的域名）、[netlify](https://www.netlify.com/) 、[zeabur](https://zeabur.com?referralCode=o1289)（国内平台，提供域名） 。
 
-这里介绍 Github Pages 的方法：
+此处介绍 Github Pages 的方法：
 
 1. 导入或 Fork 本项目
 
